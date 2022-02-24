@@ -1,0 +1,17 @@
+.card {
+    margin: 15px;
+    width: 18rem;
+}
+
+.card-img-top {
+    height: 200px;
+}
+
+.card-title, .card-author, .description {
+    padding: 10px 10px 0 10px;
+}
+
+.card-author {
+    padding-bottom: 10px;
+    border-bottom: solid 1px;
+}
